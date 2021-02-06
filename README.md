@@ -1,4 +1,14 @@
 # 30天操作系统之旅
 ## 2021/2/5
-* 贪心算法，动态规划
-* csapp第一章
+* plan
+  * 贪心算法，动态规划
+  * csapp第一章
+* achievement&&reflect
+  * 贪心算法pat甲基本完成
+  * 动态规划未开始
+  * csapp仅开始半小时
+# 2021/2/6
+* plan
+  * 动态规划
+  * csapp第一章
+* achievement&&reflect
